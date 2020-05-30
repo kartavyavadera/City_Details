@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">City Details</string>
+    <string name="ahmedabad">Ahmedabad, in western India, is the largest city in the state of Gujarat. The Sabarmati River runs through its center. On the western bank is the Gandhi Ashram at Sabarmati, which displays the spiritual leader’s living quarters and artifacts. Across the river, the Calico Museum of Textiles, once a cloth merchant\'s mansion, has a significant collection of antique and modern fabrics.\n
+Area: 464 km²\n
+Urban area: 1,866 km²\n
+Weather: 41 °C, Wind SW at 18 km/h, 29% Humidity\n
+Population: 55.7 lakhs (2011)\n
+Local time: Saturday, 6:09 pm\n
+Mayor: Bijal Patel (BJP)</string>
+
+    <string name="baroda">Vadodara is a large city in the Indian state of Gujarat. It is the administrative headquarters of Vadodara District and is located on the banks of the Vishwamitri river, 141 kilometres from the state capital Gandhinagar. The railway line and NH 8 that connect Delhi and Mumbai pass through Vadodara.\n
+Area: 410 km²\n
+Weather: 39 °C, Wind SW at 18 km/h, 39% Humidity\n
+Population: 21.8 lakhs (2019)\n
+District: Vadodara District\n
+Mayor: Dr. Jigeeshaben Jatinbhai Sheth</string>
+
+
+    <string name="surat">Surat is a large city beside the Tapi River in the west Indian state of Gujarat. Once known for silk weaving, Surat remains a commercial center for textiles, and the New Textile Market area is lined with fabric shops. Overlooking the river, Surat Castle was built in the 1500s to defend the city against Portuguese colonists. Nearby, the Dutch, Armenian and English cemeteries contain elaborate colonial-era tombs.\n
+Area: 326.5 km²\n
+Metropolitan area: 326.6 km²\n
+Weather: 33 °C, Wind SW at 14 km/h, 70% Humidity\n
+Population: 44.6 lakhs (2011)\n
+Mayor: Jagdish Patel</string>
+</resources>
